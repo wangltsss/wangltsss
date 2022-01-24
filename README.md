@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wangltsss
-- 🌱 I’m currently learning C language and developing web projects.
-- 📫 You can find me through wangshentong0625@gmail.com
+- 🌱 I’m currently learning to develop Java web apps.
+- 📫 You can find me through me@stttw.com
 
 <!---
 wangltsss/wangltsss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
