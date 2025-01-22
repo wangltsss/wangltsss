@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wangltsss.   
-  I am a current level 3 computer science student at mcmaster who is looking for jobs. 
+  I am a current level 4 computer science student at mcmaster who is actively looking for internship jobs this coming Summer. 
   
   
 - I am a full stack developer and I have developed several projects with Python Flask  
@@ -16,7 +16,7 @@
   
   
 - I have a blog built with hexo and you can find it at:  
-  http://stttw.com/
+  http://stttw.com/blog
 
 <!---
 wangltsss/wangltsss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
